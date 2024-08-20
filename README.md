@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyberware, future tech and quantum computing
 - 🌱 I’m currently learning ml, programming and quantum computing
 - 💞️ I’m looking to collaborate on websites and music as well
-- 📫 How to reach me. My email is ricksanchez2002@icloud.com, contact me there
+- 📫 How to reach me. My email is lowveilyt@gmail.com, contact me there
 - ⚡ Fun fact: I have a cat named Athena.
 
 <!---
